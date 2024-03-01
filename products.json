@@ -1,0 +1,7 @@
+[
+    {"Title" : "abc","category" : "mobile", "price" : 100},
+    {"Title" : "T-Shirt","category" : "cloths", "price" : 200},
+    {"Title" : "xyz","category" : "food", "price" : 499},
+    {"Title" : "Jeans","category" : "cloths", "price" : 999},
+    {"Title" : "Hoodie","category" : "cloths", "price" : 1599}
+]
